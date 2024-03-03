@@ -1,0 +1,31 @@
+{
+  "folders": [
+    {
+      "name": "RPA_pyautoGUI",
+      "path": "."
+    },
+    {
+      "name": "codesamples",
+      "path": "../Downloads/codesamples_RPA/codesamples"
+    },
+    {
+      "name": "tkinter",
+      "path": "../tkinter"
+    },
+    {
+      "name": "Automation",
+      "path": "../Automation"
+    },
+    {
+      "name": "samples",
+      "path": "../Downloads/0src/samples"
+    }
+  ],
+  "settings": {
+    "cSpell.words": ["filekeiribu", "nczpe", "text"]
+  },
+  "launch": {
+    "version": "0.2.0",
+    "configurations": []
+  }
+}
